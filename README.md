@@ -1,9 +1,9 @@
-[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/mick-tesla.svg)](https://user-badge.committers.top/ivory_coast_private/mick-tesla)
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/lux10n.svg)](https://user-badge.committers.top/ivory_coast_private/lux10n)
 
 ### Hi there 👋
 
 <!--
-**mick-tesla/mick-tesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lux10n/lux10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
